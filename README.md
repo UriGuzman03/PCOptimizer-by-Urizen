@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ PCOptimizer by Urizen
+# ⚡ PC Optimizer By Urizen
 ### *The Ultimate Windows Debloating & Performance Utility for Gamers*
 
 [![GitHub release](https://img.shields.io/badge/version-3.5.4-red.svg)](https://github.com/UriGuzman03/PCOptimizer-by-Urizen/releases)
@@ -25,9 +25,9 @@
 
 ---
 
-## 🚀 Quick Start (How to Run)
+## 🚀 Quick Start
 
-You can run **PC Optimizer** instantly via PowerShell without needing to manually install bulky software. Open **PowerShell as Administrator** and run the following command[cite: 1]:
+Run this command in **PowerShell (as Administrator)**:
 
 ```powershell
 Invoke-WebRequest -Uri "[https://raw.githubusercontent.com/UriGuzman03/PCOptimizer-by-Urizen/main/PCOptimizer.exe](https://raw.githubusercontent.com/UriGuzman03/PCOptimizer-by-Urizen/main/PCOptimizer.exe)" -OutFile "$env:TEMP\PCOptimizer.exe"; Start-Process "$env:TEMP\PCOptimizer.exe"
