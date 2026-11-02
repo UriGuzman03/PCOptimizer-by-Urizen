@@ -3,9 +3,9 @@
 # ⚡ PC Optimizer By Urizen
 ### *The Ultimate Windows Debloating & Performance Utility for Gamers*
 
-[![GitHub release](https://shields.io)](https://github.com)
-[![Platform](https://shields.io)](https://github.com)
-[![License](https://shields.io)](LICENSE)
+[![GitHub release](https://img.shields.io/badge/version-3.5.4-red.svg)](https://github.com/UriGuzman03/PCOptimizer-by-Urizen/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-blue.svg)](https://github.com/UriGuzman03/PCOptimizer-by-Urizen)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 </div>
 
