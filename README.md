@@ -1,7 +1,6 @@
-# PCOptimizer-by-Urizen
 <div align="center">
 
-# ⚡ PC Optimizer Pro
+# ⚡ PCOptimizer by Urizen
 ### *The Ultimate Windows Debloating & Performance Utility for Gamers*
 
 [![GitHub release](https://img.shields.io/badge/version-3.5.4-red.svg)](https://github.com/UriGuzman03/PCOptimizer-by-Urizen/releases)
